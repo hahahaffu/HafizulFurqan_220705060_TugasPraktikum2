@@ -1,0 +1,46 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #ffff;
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+}
+
+.btn{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(36, 209, 20);
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+
+table{
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.btn-edit{
+    background-color: rgb(36, 209, 20);
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.btn-delete{
+    margin: 5px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
